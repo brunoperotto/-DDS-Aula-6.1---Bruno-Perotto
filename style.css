@@ -1,0 +1,56 @@
+body{
+	background-color: #bbbbbb;
+	margin: 0;
+	height: 1200px;
+}
+
+.nav{
+	position: fixed;
+	height: 70px;
+	width: 100%;
+	background-color: #222222;
+	opacity: .5;
+}
+
+#banner{
+	background-color: #222222;
+	height: 600px;
+	width: 100%;
+}
+
+#imgbanner{
+	margin-top: -260px;
+	height: 850px;
+	width: 100%;
+}
+
+#texto{
+	background-color: #bbbbbb;
+	height: 200px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.box{
+	background-color: #222222;
+	width: 28%;
+	float: left;
+	margin-left: 3%;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+h1{
+	font-family: arial;
+	text-shadow: 2px 0px 2px black;
+	font-weight: bolder;
+	font-size: 36px;
+	color: #222222;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+p{
+	color: #999999;
+	text-align: justify;
+}
